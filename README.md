@@ -6,11 +6,13 @@
 | ------- |
 | [3379-score-of-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3379-score-of-a-string) |
 | [0344-reverse-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0344-reverse-string) |
 | [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
@@ -51,3 +53,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
