@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0042-trapping-rain-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 # Heap (Priority Queue)
 |  |
 | ------- |
