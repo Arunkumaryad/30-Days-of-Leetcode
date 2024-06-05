@@ -8,6 +8,7 @@
 | [0344-reverse-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 # Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0238-product-of-array-except-self](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
+| [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
 | ------- |
