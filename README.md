@@ -31,6 +31,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
+| [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -48,11 +49,13 @@
 | [0217-contains-duplicate](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
+| [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 # Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0217-contains-duplicate) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 # Binary Search
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
+| [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 # Stack
 |  |
 | ------- |
