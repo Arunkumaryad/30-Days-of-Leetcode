@@ -9,6 +9,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
+| [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
 # Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
+| [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
+| [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
 # Sorting
 |  |
 | ------- |
@@ -88,3 +91,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
