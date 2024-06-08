@@ -34,6 +34,7 @@
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 | [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
+| [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 | [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
+| [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 # Sorting
 |  |
 | ------- |
@@ -91,7 +93,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 # Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
