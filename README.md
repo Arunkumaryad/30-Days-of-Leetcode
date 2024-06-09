@@ -35,6 +35,7 @@
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 | [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 | [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Trie
 |  |
 | ------- |
