@@ -37,6 +37,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
 # Binary Search
 |  |
 | ------- |
@@ -111,3 +114,4 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
