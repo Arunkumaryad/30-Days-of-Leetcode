@@ -52,6 +52,7 @@
 | [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0042-trapping-rain-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0042-trapping-rain-water) |
+| [1086-divisor-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1086-divisor-game) |
 # Hash Table
 |  |
 | ------- |
@@ -116,8 +117,17 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1086-divisor-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1086-divisor-game) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
+# Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1086-divisor-game) |
+# Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1086-divisor-game) |
