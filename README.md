@@ -40,6 +40,7 @@
 | [1137-height-checker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [1137-height-checker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Stack
 |  |
 | ------- |
