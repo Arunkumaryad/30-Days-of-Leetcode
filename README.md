@@ -42,6 +42,7 @@
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
 # Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
 # Quickselect
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0876-hand-of-straights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
 # Stack
 |  |
 | ------- |
