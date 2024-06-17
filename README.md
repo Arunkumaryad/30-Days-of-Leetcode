@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1086-divisor-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1086-divisor-game) |
+| [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Counting Sort
 |  |
 | ------- |
