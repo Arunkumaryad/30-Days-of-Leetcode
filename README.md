@@ -20,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
 | [0330-patching-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0330-patching-array) |
+| [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -80,12 +82,14 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +110,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
 | [0330-patching-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0330-patching-array) |
+| [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Stack
 |  |
 | ------- |
