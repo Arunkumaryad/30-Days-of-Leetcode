@@ -50,6 +50,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1138-grumpy-bookstore-owner](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1086-divisor-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1086-divisor-game) |
 | [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting Sort
 |  |
 | ------- |
@@ -159,3 +162,4 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
