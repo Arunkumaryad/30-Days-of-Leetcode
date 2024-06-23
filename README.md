@@ -53,6 +53,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1138-grumpy-bookstore-owner](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Quickselect
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Linked List
 |  |
 | ------- |
@@ -178,3 +181,15 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
