@@ -22,6 +22,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0141-linked-list-cycle) |
 # Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [0141-linked-list-cycle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0141-linked-list-cycle) |
 # Sorting
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0141-linked-list-cycle) |
 # Recursion
 |  |
 | ------- |
