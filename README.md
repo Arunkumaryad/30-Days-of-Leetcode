@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 # Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -167,7 +169,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
