@@ -56,6 +56,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0238-product-of-array-except-self](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Trie
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Linked List
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Ordered Set
 |  |
 | ------- |
@@ -198,3 +202,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
