@@ -10,6 +10,7 @@
 | [0409-longest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1044-find-common-characters) |
 | [0648-replace-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0648-replace-words) |
+| [0020-valid-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0020-valid-parentheses) |
 # Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0020-valid-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0020-valid-parentheses) |
 # Monotonic Stack
 |  |
 | ------- |
