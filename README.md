@@ -62,6 +62,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0502-ipo](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0502-ipo) |
 | [0330-patching-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Stack
 |  |
 | ------- |
@@ -210,15 +212,19 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
