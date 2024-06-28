@@ -273,6 +273,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0118-pascals-triangle) |
+| [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,4 +286,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
