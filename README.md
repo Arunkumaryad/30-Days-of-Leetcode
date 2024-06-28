@@ -248,6 +248,7 @@
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0118-pascals-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0118-pascals-triangle) |
 | [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
