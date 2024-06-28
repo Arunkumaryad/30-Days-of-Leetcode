@@ -57,6 +57,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [0134-gas-station](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0134-gas-station) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0330-patching-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1285-balance-a-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [0134-gas-station](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0134-gas-station) |
 # Stack
 |  |
 | ------- |
