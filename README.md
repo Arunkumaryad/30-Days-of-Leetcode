@@ -274,6 +274,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0118-pascals-triangle) |
 | [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,8 +287,13 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0118-pascals-triangle) |
+| [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
