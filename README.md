@@ -268,4 +268,16 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
