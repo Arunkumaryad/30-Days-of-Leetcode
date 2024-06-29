@@ -259,12 +259,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -308,4 +311,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
