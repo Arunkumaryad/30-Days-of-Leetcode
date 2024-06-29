@@ -244,6 +244,7 @@
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -267,11 +268,13 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,4 +318,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
