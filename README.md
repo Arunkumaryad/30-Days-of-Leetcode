@@ -240,6 +240,7 @@
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Graph
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1293-three-consecutive-odds](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
