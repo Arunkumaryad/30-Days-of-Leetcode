@@ -255,6 +255,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [0056-merge-intervals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0088-merge-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [0048-rotate-image](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | [0031-next-permutation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0088-merge-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
