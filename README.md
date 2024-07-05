@@ -304,6 +304,7 @@
 | [0056-merge-intervals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0074-search-a-2d-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0048-rotate-image](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0074-search-a-2d-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |
