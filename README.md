@@ -298,6 +298,7 @@
 | [1293-three-consecutive-odds](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [0048-rotate-image](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0048-rotate-image](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
