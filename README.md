@@ -257,6 +257,7 @@
 | [0056-merge-intervals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -307,12 +308,14 @@
 | [0287-find-the-duplicate-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0074-search-a-2d-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -381,4 +384,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
