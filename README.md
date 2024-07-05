@@ -309,6 +309,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
+| [0001-two-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0001-two-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
+| [0001-two-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0001-two-sum) |
 ## Matrix
 |  |
 | ------- |
