@@ -371,12 +371,14 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0062-unique-paths) |
+| [2645-pass-the-pillow](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
 | ------- |
