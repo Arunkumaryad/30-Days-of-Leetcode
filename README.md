@@ -310,6 +310,7 @@
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 | [0001-two-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0001-two-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -373,6 +374,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2645-pass-the-pillow) |
 | [1642-water-bottles](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
@@ -381,6 +383,7 @@
 | [0062-unique-paths](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0062-unique-paths) |
 | [2645-pass-the-pillow](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2645-pass-the-pillow) |
 | [1642-water-bottles](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0050-powx-n) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -398,4 +402,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
