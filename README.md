@@ -241,6 +241,7 @@
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Graph
 |  |
 | ------- |
@@ -414,9 +415,11 @@
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
