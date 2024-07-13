@@ -259,6 +259,7 @@
 | [0088-merge-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
+| [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1803-average-waiting-time](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1803-average-waiting-time) |
 | [1720-crawler-log-folder](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1720-crawler-log-folder) |
+| [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | [1642-water-bottles](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1803-average-waiting-time](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1803-average-waiting-time) |
+| [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -422,4 +425,5 @@
 | [1720-crawler-log-folder](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
