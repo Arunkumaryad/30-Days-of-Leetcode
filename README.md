@@ -260,6 +260,7 @@
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 | [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
+| [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -324,6 +325,7 @@
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 | [0001-two-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0001-two-sum) |
+| [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 ## Matrix
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [1720-crawler-log-folder](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
 | ------- |
@@ -426,4 +429,5 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
+| [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
