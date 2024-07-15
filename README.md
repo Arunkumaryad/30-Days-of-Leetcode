@@ -272,6 +272,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [1803-average-waiting-time](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1803-average-waiting-time) |
 | [1720-crawler-log-folder](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 | [0001-two-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0001-two-sum) |
 | [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
 | ------- |
