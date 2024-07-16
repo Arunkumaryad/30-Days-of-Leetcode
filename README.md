@@ -273,6 +273,7 @@
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Array
 |  |
 | ------- |
@@ -426,6 +429,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
