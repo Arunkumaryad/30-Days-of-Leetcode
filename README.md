@@ -274,6 +274,7 @@
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Array
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [1720-crawler-log-folder](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +337,7 @@
 | [0001-two-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0001-two-sum) |
 | [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Matrix
 |  |
 | ------- |
