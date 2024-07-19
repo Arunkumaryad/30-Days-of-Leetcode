@@ -330,6 +330,7 @@
 | [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,6 +348,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0048-rotate-image](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
