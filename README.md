@@ -264,6 +264,7 @@
 | [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
 | [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -337,6 +338,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Matrix
 |  |
 | ------- |
