@@ -265,6 +265,7 @@
 | [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,6 +340,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 ## Hash Table
 |  |
 | ------- |
