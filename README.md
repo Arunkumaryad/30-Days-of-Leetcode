@@ -250,6 +250,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -373,6 +374,7 @@
 | [0053-maximum-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0062-unique-paths](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0062-unique-paths) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -484,4 +486,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
