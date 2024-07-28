@@ -252,6 +252,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Sorting
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0112-path-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -494,4 +496,5 @@
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
