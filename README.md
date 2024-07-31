@@ -350,6 +350,7 @@
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [1511-count-number-of-teams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1511-count-number-of-teams) |
+| [1196-filling-bookcase-shelves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1196-filling-bookcase-shelves) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1196-filling-bookcase-shelves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1196-filling-bookcase-shelves) |
 ## Two Pointers
 |  |
 | ------- |
