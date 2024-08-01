@@ -351,6 +351,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [1511-count-number-of-teams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1511-count-number-of-teams) |
 | [1196-filling-bookcase-shelves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [2727-number-of-senior-citizens](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2727-number-of-senior-citizens](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
