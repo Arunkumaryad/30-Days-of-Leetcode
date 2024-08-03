@@ -270,6 +270,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [2727-number-of-senior-citizens](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -366,6 +368,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Matrix
 |  |
 | ------- |
