@@ -357,6 +357,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -371,6 +372,7 @@
 | [2502-sort-the-people](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2502-sort-the-people) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -463,6 +465,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -483,6 +486,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Stack
 |  |
 | ------- |
