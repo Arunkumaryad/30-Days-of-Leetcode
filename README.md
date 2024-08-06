@@ -243,6 +243,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
@@ -272,6 +273,7 @@
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -466,6 +469,7 @@
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -487,6 +491,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
