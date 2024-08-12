@@ -363,6 +363,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 | [0088-merge-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
