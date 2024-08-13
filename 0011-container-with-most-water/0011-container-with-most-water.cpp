@@ -6,8 +6,8 @@ public:
         int end = n-1;
         int ans = 0;
         while(start < end) {
-            int curr = min(height[start],height[end])* (end-start);
-            ans = max(ans,curr);
+            int diff = min(height[start],height[end]) * (end-start);
+            ans = max(ans,diff);
             if(height[start] < height[end]) {
                 start++;
             }
