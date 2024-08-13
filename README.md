@@ -368,6 +368,7 @@
 | [0283-move-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
 | [0040-combination-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +385,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -555,4 +557,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
