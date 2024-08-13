@@ -365,6 +365,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
+| [0040-combination-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0040-combination-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
+| [0040-combination-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0040-combination-sum-ii) |
 ## Topological Sort
 |  |
 | ------- |
