@@ -380,6 +380,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -477,6 +479,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1803-average-waiting-time](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2846-robot-collisions) |
+| [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
