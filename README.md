@@ -246,6 +246,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0011-container-with-most-water](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 ## Graph
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
+| [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1196-filling-bookcase-shelves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
