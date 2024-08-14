@@ -378,6 +378,7 @@
 | [0015-3sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0018-4sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -560,6 +561,7 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
@@ -576,4 +578,5 @@
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
