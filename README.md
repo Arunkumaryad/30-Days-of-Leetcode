@@ -381,6 +381,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -448,6 +450,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0113-path-sum-ii) |
 | [0040-combination-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 ## Topological Sort
 |  |
 | ------- |
@@ -527,6 +530,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
