@@ -386,6 +386,7 @@
 | [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 | [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -429,6 +430,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Two Pointers
 |  |
 | ------- |
