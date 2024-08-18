@@ -287,6 +287,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 ## Tree
 |  |
 | ------- |
@@ -406,6 +407,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -431,6 +433,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [2645-pass-the-pillow](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2645-pass-the-pillow) |
 | [1642-water-bottles](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
