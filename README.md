@@ -434,6 +434,7 @@
 | [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -503,6 +504,7 @@
 | [1642-water-bottles](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Bit Manipulation
 |  |
 | ------- |
