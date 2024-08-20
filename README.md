@@ -388,6 +388,7 @@
 | [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -602,4 +605,9 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
