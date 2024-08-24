@@ -511,6 +511,7 @@
 | [0650-2-keys-keyboard](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0564-find-the-closest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0564-find-the-closest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -553,6 +554,7 @@
 | [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 | [0664-strange-printer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0664-strange-printer) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0564-find-the-closest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0564-find-the-closest-palindrome) |
 ## Stack
 |  |
 | ------- |
