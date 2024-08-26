@@ -301,6 +301,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -574,6 +576,7 @@
 | [0726-number-of-atoms](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
