@@ -393,6 +393,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -413,6 +414,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
