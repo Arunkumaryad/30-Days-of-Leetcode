@@ -258,6 +258,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Tree
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
 |  |
 | ------- |
@@ -599,6 +602,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Binary Indexed Tree
 |  |
 | ------- |
