@@ -400,6 +400,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [0792-binary-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0792-binary-search) |
+| [0035-search-insert-position](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -497,6 +498,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0792-binary-search) |
+| [0035-search-insert-position](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0035-search-insert-position) |
 ## Linked List
 |  |
 | ------- |
