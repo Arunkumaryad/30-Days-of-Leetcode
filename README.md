@@ -259,6 +259,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Sorting
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2035-count-sub-islands](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2035-count-sub-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -425,6 +427,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Matrix
 |  |
 | ------- |
@@ -494,6 +497,7 @@
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2035-count-sub-islands](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2035-count-sub-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Search
 |  |
 | ------- |
