@@ -260,6 +260,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Sorting
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Tree
 |  |
 | ------- |
@@ -616,6 +618,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Indexed Tree
 |  |
 | ------- |
