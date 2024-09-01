@@ -409,6 +409,7 @@
 | [0035-search-insert-position](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0035-search-insert-position) |
 | [2035-count-sub-islands](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2035-count-sub-islands) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -512,6 +513,7 @@
 | [0792-binary-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0792-binary-search) |
 | [0035-search-insert-position](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Linked List
 |  |
 | ------- |
