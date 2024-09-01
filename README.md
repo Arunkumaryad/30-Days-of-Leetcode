@@ -414,6 +414,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0162-find-peak-element) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -448,6 +449,7 @@
 | [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 | [2035-count-sub-islands](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -539,6 +541,7 @@
 | [0054-spiral-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
