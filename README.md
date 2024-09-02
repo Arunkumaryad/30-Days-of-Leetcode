@@ -415,6 +415,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0162-find-peak-element) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
 | ------- |
@@ -524,6 +525,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0162-find-peak-element) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
 | ------- |
@@ -542,6 +544,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
 | ------- |
@@ -662,6 +665,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
