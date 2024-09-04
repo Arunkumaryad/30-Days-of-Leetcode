@@ -418,6 +418,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [0906-walking-robot-simulation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0906-walking-robot-simulation) |
 ## Hash Table
 |  |
 | ------- |
@@ -440,6 +441,7 @@
 | [0264-ugly-number-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0906-walking-robot-simulation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0906-walking-robot-simulation) |
 ## Matrix
 |  |
 | ------- |
@@ -550,6 +552,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [0906-walking-robot-simulation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0906-walking-robot-simulation) |
 ## Math
 |  |
 | ------- |
