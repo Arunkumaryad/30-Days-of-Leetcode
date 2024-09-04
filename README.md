@@ -416,6 +416,7 @@
 | [0162-find-peak-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0162-find-peak-element) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -526,6 +527,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0162-find-peak-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Linked List
 |  |
 | ------- |
