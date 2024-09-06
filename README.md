@@ -420,6 +420,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [0906-walking-robot-simulation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2155-find-missing-observations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -443,6 +444,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0906-walking-robot-simulation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0906-walking-robot-simulation) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -538,6 +540,7 @@
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
