@@ -22,14 +22,14 @@ public:
         }
         TreeNode* leftKaAns = lowestCommonAncestor(root->left,p,q);
         TreeNode* rightKaAns = lowestCommonAncestor(root->right,p,q);
-        if(leftKaAns == NULL && rightKaAns != NULL) {
-            return rightKaAns;
-        }
-        if(leftKaAns != NULL && rightKaAns == NULL) {
-            return leftKaAns;
-        }
         if(leftKaAns == NULL && rightKaAns == NULL) {
             return NULL;
+        }
+        else if(leftKaAns != NULL && rightKaAns == NULL) {
+            return leftKaAns;
+        }
+        else if(leftKaAns == NULL && rightKaAns != NULL) {
+            return rightKaAns;
         }
         else {
             return root;
