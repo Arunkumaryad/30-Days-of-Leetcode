@@ -11,29 +11,29 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root,int targetSum,vector<vector<int>>& ans,vector<int>temp,int sum) {
-        //base case.
+    void solve(TreeNode* root, int sum, int target, vector<int>temp, vector<vector<int>>& ans) {
+        //base case
         if(root == NULL) {
-            return ;
+            return;
         }
         sum += root->val;
         temp.push_back(root->val);
         if(root->left == NULL && root->right == NULL) {
-            if(sum == targetSum) {
+            if(sum == target) {
                 ans.push_back(temp);
             }
-            else{
+            else {
                 return;
             }
         }
-        solve(root->left,targetSum,ans,temp,sum);
-        solve(root->right,targetSum,ans,temp,sum);
+        solve(root->left, sum, target, temp, ans);
+        solve(root->right, sum, target, temp, ans);
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<vector<int>> ans;
-        vector<int>temp;
         int sum = 0;
-        solve(root,targetSum,ans,temp,sum);
+        vector<vector<int>> ans;
+        vector<int> temp;
+        solve(root, sum, targetSum, temp, ans);
         return ans;
     }
 };
