@@ -12,20 +12,19 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int &k) {
+        //base case
         if(root == NULL) {
             return -1;
         }
-        //left.
+        //left, root,right
         int leftAns = kthSmallest(root->left,k);
         if(leftAns != -1) {
             return leftAns;
         }
-        //Root.
         k--;
         if(k == 0) {
             return root->val;
         }
-        //right.
         int rightAns = kthSmallest(root->right,k);
         return rightAns;
     }
