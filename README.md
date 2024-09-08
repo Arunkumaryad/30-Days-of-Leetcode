@@ -310,6 +310,7 @@
 | [0110-balanced-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0110-balanced-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [0110-balanced-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Array
 |  |
 | ------- |
@@ -682,6 +685,7 @@
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0098-validate-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Data Stream
 |  |
 | ------- |
