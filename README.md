@@ -442,6 +442,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -467,6 +468,7 @@
 | [0906-walking-robot-simulation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -608,6 +610,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -620,6 +623,7 @@
 | [0229-majority-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0229-majority-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Combinatorics
 |  |
 | ------- |
@@ -647,6 +651,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0564-find-the-closest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
