@@ -443,6 +443,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -526,6 +527,7 @@
 | [0169-majority-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -563,6 +565,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -669,6 +672,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
+| [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -693,6 +697,7 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1511-count-number-of-teams) |
+| [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -730,4 +735,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
