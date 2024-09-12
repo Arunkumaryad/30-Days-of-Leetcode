@@ -469,6 +469,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Matrix
 |  |
 | ------- |
@@ -652,6 +653,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Stack
 |  |
 | ------- |
@@ -696,6 +698,7 @@
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Design
 |  |
 | ------- |
