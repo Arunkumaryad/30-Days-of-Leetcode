@@ -444,6 +444,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -615,6 +616,7 @@
 | [0476-number-complement](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -727,6 +729,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Game Theory
 |  |
 | ------- |
