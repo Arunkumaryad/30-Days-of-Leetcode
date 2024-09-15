@@ -472,6 +472,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Matrix
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Recursion
 |  |
 | ------- |
@@ -659,6 +661,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
 | ------- |
@@ -730,6 +733,7 @@
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Game Theory
 |  |
 | ------- |
