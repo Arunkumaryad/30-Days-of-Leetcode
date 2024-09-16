@@ -285,6 +285,7 @@
 | [0018-4sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0018-4sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -445,6 +446,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -610,6 +612,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0564-find-the-closest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [2155-find-missing-observations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2155-find-missing-observations) |
+| [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -662,6 +665,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 ## Stack
 |  |
 | ------- |
