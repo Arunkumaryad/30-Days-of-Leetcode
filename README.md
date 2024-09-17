@@ -508,6 +508,7 @@
 | [0650-2-keys-keyboard](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 | [0664-strange-printer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0664-strange-printer) |
+| [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -614,6 +615,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [2155-find-missing-observations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2155-find-missing-observations) |
 | [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
+| [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -628,6 +630,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -757,4 +760,8 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
