@@ -475,6 +475,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Matrix
 |  |
 | ------- |
@@ -635,6 +636,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Combinatorics
 |  |
 | ------- |
@@ -666,6 +668,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Stack
 |  |
 | ------- |
