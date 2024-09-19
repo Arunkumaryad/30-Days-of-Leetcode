@@ -450,6 +450,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -512,6 +513,7 @@
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
 | [0664-strange-printer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
+| [0198-house-robber](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
