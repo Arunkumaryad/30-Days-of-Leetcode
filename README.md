@@ -337,6 +337,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -770,4 +771,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
