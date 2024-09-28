@@ -456,6 +456,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [0729-my-calendar-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 ## Hash Table
 |  |
 | ------- |
@@ -596,6 +597,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [0725-split-linked-list-in-parts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 ## Simulation
 |  |
 | ------- |
@@ -663,6 +665,7 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 ## String
 |  |
 | ------- |
@@ -743,6 +746,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
