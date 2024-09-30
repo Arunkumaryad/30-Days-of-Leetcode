@@ -3,7 +3,7 @@ public:
     void sortColors(vector<int>& nums) {
         int n = nums.size();
         int zero = 0;
-        int one = 0;
+        int one  = 0;
         int two = 0;
         for(int i=0;i<n;i++) {
             if(nums[i] == 0) {
@@ -12,25 +12,25 @@ public:
             else if(nums[i] == 1) {
                 one++;
             }
-            else{
+            else {
                 two++;
             }
         }
-        int i=0;
-        while(zero > 0) {
+        int i = 0;
+        while(zero) {
             nums[i] = 0;
-            i++;
             zero--;
+            i++;
         }
-        while(one > 0) {
+        while(one) {
             nums[i] = 1;
-            i++;
             one--;
-        }
-        while(two > 0) {
-            nums[i] = 2;
             i++;
+        }
+        while(two) {
+            nums[i] = 2;
             two--;
+            i++;
         }
     }
 };
