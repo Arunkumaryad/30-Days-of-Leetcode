@@ -458,6 +458,7 @@
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -490,6 +491,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [0432-all-oone-data-structure](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0432-all-oone-data-structure) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -663,6 +665,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
