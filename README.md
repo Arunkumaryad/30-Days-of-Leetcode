@@ -527,6 +527,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0072-edit-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0072-edit-distance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -700,6 +701,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0072-edit-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
