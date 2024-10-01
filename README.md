@@ -526,6 +526,7 @@
 | [0198-house-robber](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0198-house-robber) |
 | [2755-extra-characters-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -698,6 +699,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Stack
 |  |
 | ------- |
