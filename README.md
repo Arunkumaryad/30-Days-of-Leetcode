@@ -525,6 +525,7 @@
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 | [0198-house-robber](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0198-house-robber) |
 | [2755-extra-characters-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -696,6 +697,7 @@
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
