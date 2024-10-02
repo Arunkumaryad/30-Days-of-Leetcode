@@ -461,6 +461,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -533,6 +534,7 @@
 | [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0072-edit-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0072-edit-distance) |
+| [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -598,6 +600,7 @@
 | [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Linked List
 |  |
 | ------- |
