@@ -288,6 +288,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
+| [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -459,6 +460,7 @@
 | [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -492,6 +494,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [0432-all-oone-data-structure](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0432-all-oone-data-structure) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
