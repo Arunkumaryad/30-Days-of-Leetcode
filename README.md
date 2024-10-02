@@ -289,6 +289,7 @@
 | [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -462,6 +463,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Hash Table
 |  |
 | ------- |
@@ -535,6 +537,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0072-edit-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -601,6 +604,7 @@
 | [0729-my-calendar-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Linked List
 |  |
 | ------- |
