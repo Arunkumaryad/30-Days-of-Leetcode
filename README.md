@@ -464,6 +464,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -539,6 +540,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Two Pointers
 |  |
 | ------- |
