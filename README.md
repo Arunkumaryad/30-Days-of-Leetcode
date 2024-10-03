@@ -538,6 +538,7 @@
 | [0072-edit-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -651,6 +652,7 @@
 | [2155-find-missing-observations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2155-find-missing-observations) |
 | [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -798,6 +800,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1240-stone-game-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Quickselect
 |  |
 | ------- |
