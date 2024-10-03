@@ -465,6 +465,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Hash Table
 |  |
 | ------- |
@@ -499,6 +500,7 @@
 | [0432-all-oone-data-structure](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0432-all-oone-data-structure) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Matrix
 |  |
 | ------- |
@@ -799,6 +801,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Game Theory
 |  |
 | ------- |
