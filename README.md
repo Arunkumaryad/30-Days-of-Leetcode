@@ -541,6 +541,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
