@@ -290,6 +290,7 @@
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -466,6 +467,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -501,6 +503,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
 | ------- |
@@ -561,6 +564,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
