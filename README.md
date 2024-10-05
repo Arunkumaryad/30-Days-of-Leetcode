@@ -504,6 +504,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -565,6 +566,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -726,6 +728,7 @@
 | [1250-longest-common-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0072-edit-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0072-edit-distance) |
+| [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -774,6 +777,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 ## Design
 |  |
 | ------- |
