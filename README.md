@@ -648,6 +648,7 @@
 | [0906-walking-robot-simulation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -732,6 +733,7 @@
 | [0072-edit-distance](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0072-edit-distance) |
 | [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -744,6 +746,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Merge Sort
 |  |
 | ------- |
