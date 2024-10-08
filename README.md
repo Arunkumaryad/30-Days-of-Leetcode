@@ -249,6 +249,7 @@
 | [0055-jump-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Graph
 |  |
 | ------- |
@@ -569,6 +570,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -734,6 +736,7 @@
 | [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -747,6 +750,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Merge Sort
 |  |
 | ------- |
