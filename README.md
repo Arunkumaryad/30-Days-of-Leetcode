@@ -250,6 +250,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Graph
 |  |
 | ------- |
@@ -737,6 +738,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -751,6 +753,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Merge Sort
 |  |
 | ------- |
