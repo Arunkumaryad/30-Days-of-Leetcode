@@ -251,6 +251,7 @@
 | [0179-largest-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0179-largest-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
@@ -472,6 +475,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [1923-sentence-similarity-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1002-maximum-width-ramp](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1002-maximum-width-ramp) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -573,6 +577,7 @@
 | [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -825,6 +830,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
