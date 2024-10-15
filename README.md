@@ -254,6 +254,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
 |  |
 | ------- |
@@ -586,6 +587,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -753,6 +755,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
