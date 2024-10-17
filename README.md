@@ -256,6 +256,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [1304-longest-happy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1304-longest-happy-string) |
+| [0670-maximum-swap](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0670-maximum-swap) |
 ## Graph
 |  |
 | ------- |
@@ -688,6 +689,7 @@
 | [0539-minimum-time-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0670-maximum-swap](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0670-maximum-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
