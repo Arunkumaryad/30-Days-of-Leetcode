@@ -708,6 +708,7 @@
 | [0050-powx-n](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Counting
 |  |
 | ------- |
@@ -764,6 +765,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [1304-longest-happy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1304-longest-happy-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
 |  |
 | ------- |
@@ -780,6 +782,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Merge Sort
 |  |
 | ------- |
