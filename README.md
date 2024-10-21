@@ -526,6 +526,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -607,6 +608,7 @@
 | [0040-combination-sum-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Topological Sort
 |  |
 | ------- |
@@ -766,6 +768,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [1304-longest-happy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1304-longest-happy-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Stack
 |  |
 | ------- |
