@@ -597,6 +597,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [0125-valid-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -775,6 +776,7 @@
 | [1304-longest-happy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1304-longest-happy-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [0125-valid-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
