@@ -777,6 +777,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [0125-valid-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0125-valid-palindrome) |
+| [0812-rotate-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -909,4 +910,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
