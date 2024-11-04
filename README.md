@@ -496,6 +496,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -602,6 +603,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [0125-valid-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -706,6 +708,7 @@
 | [0670-maximum-swap](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0670-maximum-swap) |
 | [0007-reverse-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
