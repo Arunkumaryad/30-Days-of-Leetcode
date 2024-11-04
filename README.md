@@ -500,6 +500,7 @@
 | [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0136-single-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -726,6 +727,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0136-single-number) |
 ## Recursion
 |  |
 | ------- |
