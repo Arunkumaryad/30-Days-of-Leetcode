@@ -304,6 +304,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -497,6 +498,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -536,6 +538,7 @@
 | [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -657,6 +660,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -709,6 +713,7 @@
 | [0007-reverse-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -719,6 +724,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
