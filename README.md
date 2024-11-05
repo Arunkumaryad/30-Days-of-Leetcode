@@ -795,6 +795,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [0125-valid-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0812-rotate-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
