@@ -501,6 +501,7 @@
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0136-single-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0136-single-number) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -852,6 +853,7 @@
 | [0567-permutation-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Design
 |  |
 | ------- |
