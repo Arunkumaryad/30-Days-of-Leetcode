@@ -2,21 +2,22 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         int n = nums.size();
+        //special or base case
         if(n == 0) {
             return 0;
         }
         sort(nums.begin(),nums.end());
-        int smallest = INT_MIN;
+        int mini = INT_MIN;
         int cnt = 0;
         int maxi = 1;
         for(int i=0;i<n;i++) {
-            if(nums[i]-1 == smallest) {
+            if(nums[i]-1 == mini) {
                 cnt++;
-                smallest = nums[i];
+                mini = nums[i];
             }
-            else if(nums[i] != smallest) {
+            else if(nums[i] != mini) {
                 cnt = 1;
-                smallest = nums[i];
+                mini = nums[i];
             }
             maxi = max(maxi,cnt);
         }
