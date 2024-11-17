@@ -319,6 +319,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [1304-longest-happy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1304-longest-happy-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Tree
 |  |
 | ------- |
@@ -502,6 +503,7 @@
 | [0485-max-consecutive-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0136-single-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0136-single-number) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -664,6 +666,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Linked List
 |  |
 | ------- |
@@ -755,6 +758,7 @@
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## String
 |  |
 | ------- |
@@ -854,6 +858,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Design
 |  |
 | ------- |
@@ -888,6 +893,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -936,4 +942,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0812-rotate-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
