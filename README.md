@@ -504,6 +504,7 @@
 | [0136-single-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0136-single-number) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -859,6 +860,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Design
 |  |
 | ------- |
