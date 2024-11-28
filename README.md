@@ -511,6 +511,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -568,6 +569,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -684,6 +686,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Linked List
 |  |
 | ------- |
