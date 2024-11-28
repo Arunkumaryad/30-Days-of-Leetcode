@@ -506,6 +506,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [1646-kth-missing-positive-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -671,6 +672,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1646-kth-missing-positive-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Linked List
 |  |
 | ------- |
