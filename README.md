@@ -507,6 +507,7 @@
 | [1755-defuse-the-bomb](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [1646-kth-missing-positive-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -625,6 +626,7 @@
 | [0948-sort-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0948-sort-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -673,6 +675,7 @@
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1646-kth-missing-positive-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Linked List
 |  |
 | ------- |
