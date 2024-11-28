@@ -258,6 +258,7 @@
 | [1304-longest-happy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1304-longest-happy-string) |
 | [0670-maximum-swap](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0670-maximum-swap) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Graph
 |  |
 | ------- |
@@ -508,6 +509,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [1646-kth-missing-positive-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -593,6 +595,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -676,6 +679,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1646-kth-missing-positive-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -907,6 +911,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Game Theory
 |  |
 | ------- |
