@@ -515,6 +515,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -847,6 +848,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Merge Sort
 |  |
 | ------- |
@@ -967,6 +969,7 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
 | ------- |
