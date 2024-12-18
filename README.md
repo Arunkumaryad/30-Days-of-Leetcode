@@ -514,6 +514,7 @@
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -557,6 +558,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
 | ------- |
@@ -628,6 +630,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [0125-valid-palindrome](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
