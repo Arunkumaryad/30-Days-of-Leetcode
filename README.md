@@ -260,6 +260,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Graph
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -516,6 +518,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -849,6 +852,7 @@
 | [1002-maximum-width-ramp](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Merge Sort
 |  |
 | ------- |
@@ -970,6 +974,7 @@
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Enumeration
 |  |
 | ------- |
