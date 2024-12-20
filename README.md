@@ -345,6 +345,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -366,6 +367,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0386-lexicographical-numbers) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -377,6 +379,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -396,6 +399,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
 | ------- |
