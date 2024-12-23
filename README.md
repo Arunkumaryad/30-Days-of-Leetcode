@@ -526,6 +526,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [0898-transpose-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0898-transpose-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -587,6 +588,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [0898-transpose-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0898-transpose-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
