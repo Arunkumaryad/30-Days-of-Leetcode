@@ -531,6 +531,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [0898-transpose-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0898-transpose-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -623,6 +624,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -667,6 +669,7 @@
 | [0079-word-search](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
 | ------- |
