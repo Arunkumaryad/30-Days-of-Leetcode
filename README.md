@@ -715,6 +715,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [0069-sqrtx](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -769,6 +770,7 @@
 | [0009-palindrome-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
+| [0069-sqrtx](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
