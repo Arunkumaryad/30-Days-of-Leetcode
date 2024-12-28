@@ -857,6 +857,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -877,6 +878,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Merge Sort
 |  |
 | ------- |
