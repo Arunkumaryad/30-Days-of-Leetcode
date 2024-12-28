@@ -6,8 +6,6 @@ public:
         if(s == t) {
             return true;
         }
-        else{
-            return false;
-        }
+        return false;
     }
 };
