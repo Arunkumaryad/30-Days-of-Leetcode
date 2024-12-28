@@ -749,6 +749,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [0898-transpose-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0898-transpose-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -858,6 +859,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -879,6 +881,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Merge Sort
 |  |
 | ------- |
