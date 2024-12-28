@@ -534,6 +534,7 @@
 | [2737-row-with-maximum-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -629,6 +630,7 @@
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
