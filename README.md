@@ -310,6 +310,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0242-valid-anagram](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -577,6 +578,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [0242-valid-anagram](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -860,6 +862,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [0242-valid-anagram](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
