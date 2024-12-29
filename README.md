@@ -867,6 +867,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [0242-valid-anagram](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0953-reverse-only-letters) |
+| [0014-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0014-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -1003,6 +1004,7 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [0014-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0014-longest-common-prefix) |
 ## Doubly-Linked List
 |  |
 | ------- |
