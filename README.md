@@ -535,6 +535,7 @@
 | [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -631,6 +632,7 @@
 | [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -870,6 +872,7 @@
 | [0953-reverse-only-letters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0953-reverse-only-letters) |
 | [0014-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Stack
 |  |
 | ------- |
