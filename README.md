@@ -658,6 +658,7 @@
 | [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [0953-reverse-only-letters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0953-reverse-only-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -868,6 +869,7 @@
 | [0242-valid-anagram](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0953-reverse-only-letters) |
 | [0014-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
