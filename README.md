@@ -582,6 +582,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [0242-valid-anagram](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0242-valid-anagram) |
+| [0205-isomorphic-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0205-isomorphic-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -879,6 +880,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [0205-isomorphic-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
