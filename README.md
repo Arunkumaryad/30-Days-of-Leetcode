@@ -261,6 +261,7 @@
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Graph
 |  |
 | ------- |
@@ -783,6 +784,7 @@
 | [0189-rotate-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0069-sqrtx](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0069-sqrtx) |
+| [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -876,6 +878,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
