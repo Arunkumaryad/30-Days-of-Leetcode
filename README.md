@@ -661,6 +661,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [0953-reverse-only-letters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0953-reverse-only-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -874,6 +875,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
