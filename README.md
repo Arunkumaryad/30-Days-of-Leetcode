@@ -537,6 +537,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1025-minimum-cost-for-tickets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -635,6 +636,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1025-minimum-cost-for-tickets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 ## Two Pointers
 |  |
 | ------- |
