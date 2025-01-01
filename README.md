@@ -883,6 +883,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [0205-isomorphic-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0205-isomorphic-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -987,6 +988,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Game Theory
 |  |
 | ------- |
