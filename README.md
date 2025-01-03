@@ -539,6 +539,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2358-number-of-ways-to-split-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -992,6 +993,7 @@
 | [0410-split-array-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2358-number-of-ways-to-split-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Game Theory
 |  |
 | ------- |
