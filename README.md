@@ -542,6 +542,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2358-number-of-ways-to-split-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -895,6 +896,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [0451-sort-characters-by-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2465-shifting-letters-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1004,6 +1006,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2358-number-of-ways-to-split-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Game Theory
 |  |
 | ------- |
