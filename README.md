@@ -544,6 +544,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2465-shifting-letters-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -899,6 +900,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2465-shifting-letters-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2465-shifting-letters-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -1063,6 +1065,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
