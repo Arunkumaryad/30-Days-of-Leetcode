@@ -797,6 +797,7 @@
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0069-sqrtx](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -817,6 +818,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2050-count-good-numbers) |
 ## Counting
 |  |
 | ------- |
