@@ -901,6 +901,7 @@
 | [2465-shifting-letters-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2465-shifting-letters-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [0008-string-to-integer-atoi](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0008-string-to-integer-atoi) |
 ## Stack
 |  |
 | ------- |
