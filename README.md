@@ -546,6 +546,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -906,6 +907,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [0008-string-to-integer-atoi](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -1073,6 +1075,7 @@
 | [0812-rotate-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Monotonic Queue
 |  |
 | ------- |
