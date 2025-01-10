@@ -547,6 +547,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -595,6 +596,7 @@
 | [0205-isomorphic-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0205-isomorphic-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [0451-sort-characters-by-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -908,6 +910,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 ## Stack
 |  |
 | ------- |
