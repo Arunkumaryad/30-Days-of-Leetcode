@@ -263,6 +263,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Graph
 |  |
 | ------- |
@@ -915,6 +916,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Stack
 |  |
 | ------- |
@@ -938,6 +940,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [1078-remove-outermost-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Merge Sort
 |  |
 | ------- |
