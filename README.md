@@ -600,6 +600,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -839,6 +840,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [0451-sort-characters-by-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Combinatorics
 |  |
 | ------- |
@@ -917,6 +919,7 @@
 | [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
