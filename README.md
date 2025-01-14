@@ -550,6 +550,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -601,6 +602,7 @@
 | [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -819,6 +821,7 @@
 | [0268-missing-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0136-single-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
