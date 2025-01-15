@@ -264,6 +264,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2509-minimize-xor) |
 ## Graph
 |  |
 | ------- |
@@ -822,6 +823,7 @@
 | [0136-single-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0136-single-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2509-minimize-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2509-minimize-xor) |
 ## Recursion
 |  |
 | ------- |
