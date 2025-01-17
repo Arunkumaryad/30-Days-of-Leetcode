@@ -552,6 +552,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -824,6 +825,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2509-minimize-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2509-minimize-xor) |
+| [2792-neighboring-bitwise-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
