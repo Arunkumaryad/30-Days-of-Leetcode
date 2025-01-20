@@ -553,6 +553,7 @@
 | [0952-word-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0952-word-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
 | ------- |
@@ -605,6 +606,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Matrix
 |  |
 | ------- |
@@ -623,6 +625,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [0898-transpose-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0898-transpose-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Dynamic Programming
 |  |
 | ------- |
