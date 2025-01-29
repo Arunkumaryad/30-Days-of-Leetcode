@@ -279,6 +279,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2803-modify-graph-edge-weights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [0684-redundant-connection](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 ## Sorting
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [0386-lexicographical-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [0684-redundant-connection](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [0684-redundant-connection](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -721,6 +724,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2035-count-sub-islands](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0684-redundant-connection](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 ## Binary Search
 |  |
 | ------- |
