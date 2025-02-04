@@ -563,6 +563,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
