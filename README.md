@@ -336,6 +336,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [0451-sort-characters-by-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Tree
 |  |
 | ------- |
@@ -620,6 +621,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1364-tuple-with-same-product](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -1029,6 +1031,7 @@
 | [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 | [0432-all-oone-data-structure](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0432-all-oone-data-structure) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1084,6 +1087,7 @@
 | [0327-count-of-range-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Memoization
 |  |
 | ------- |
