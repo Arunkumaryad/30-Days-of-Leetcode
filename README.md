@@ -566,6 +566,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1364-tuple-with-same-product](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -622,6 +623,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1364-tuple-with-same-product](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -832,6 +834,7 @@
 | [0069-sqrtx](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2050-count-good-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -872,6 +875,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1364-tuple-with-same-product](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Combinatorics
 |  |
 | ------- |
