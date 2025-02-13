@@ -339,6 +339,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Tree
 |  |
 | ------- |
@@ -570,6 +571,7 @@
 | [1364-tuple-with-same-product](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -813,6 +815,7 @@
 | [0898-transpose-matrix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3447-clear-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Math
 |  |
 | ------- |
