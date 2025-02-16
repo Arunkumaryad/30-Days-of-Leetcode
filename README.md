@@ -573,6 +573,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -735,6 +736,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [0494-target-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0494-target-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Topological Sort
 |  |
 | ------- |
