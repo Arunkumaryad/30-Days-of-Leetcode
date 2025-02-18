@@ -265,6 +265,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2509-minimize-xor) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
 | ------- |
@@ -739,6 +740,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1160-letter-tile-possibilities](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Topological Sort
 |  |
 | ------- |
@@ -975,6 +977,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3447-clear-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3447-clear-digits) |
 | [1160-letter-tile-possibilities](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
@@ -1000,6 +1003,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3447-clear-digits) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Merge Sort
 |  |
 | ------- |
