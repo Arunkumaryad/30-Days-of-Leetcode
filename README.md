@@ -363,6 +363,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -388,6 +389,7 @@
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [0684-redundant-connection](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -984,6 +987,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2107-find-unique-binary-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
