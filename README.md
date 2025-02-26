@@ -580,6 +580,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2107-find-unique-binary-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -696,6 +697,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
