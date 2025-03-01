@@ -582,6 +582,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -731,6 +732,7 @@
 | [0953-reverse-only-letters](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0953-reverse-only-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -839,6 +841,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3447-clear-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
