@@ -584,6 +584,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -645,6 +646,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2107-find-unique-binary-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -665,6 +667,7 @@
 | [2737-row-with-maximum-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -875,6 +878,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
