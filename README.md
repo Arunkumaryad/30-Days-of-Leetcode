@@ -879,6 +879,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1197,4 +1198,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
