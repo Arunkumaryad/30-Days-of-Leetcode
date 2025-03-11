@@ -585,6 +585,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [0152-maximum-product-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -707,6 +708,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [0152-maximum-product-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
