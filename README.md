@@ -588,6 +588,7 @@
 | [0152-maximum-product-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -818,6 +819,7 @@
 | [0069-sqrtx](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0069-sqrtx) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Linked List
 |  |
 | ------- |
