@@ -590,6 +590,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2690-house-robber-iv) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -822,6 +823,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2690-house-robber-iv) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Linked List
 |  |
 | ------- |
