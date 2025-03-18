@@ -591,6 +591,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2478-longest-nice-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -908,6 +909,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2509-minimize-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2478-longest-nice-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -1096,6 +1098,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Design
 |  |
 | ------- |
