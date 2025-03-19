@@ -592,6 +592,7 @@
 | [2690-house-robber-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2478-longest-nice-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -910,6 +911,7 @@
 | [2509-minimize-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2478-longest-nice-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
 | ------- |
@@ -947,6 +949,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -1099,6 +1102,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
 | ------- |
@@ -1147,6 +1151,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Game Theory
 |  |
 | ------- |
