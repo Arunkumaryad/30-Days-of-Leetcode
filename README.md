@@ -284,6 +284,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Sorting
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [0684-redundant-connection](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -408,6 +410,7 @@
 | [0684-redundant-connection](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -794,6 +797,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
 | ------- |
