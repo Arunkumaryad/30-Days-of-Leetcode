@@ -266,6 +266,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2509-minimize-xor) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Graph
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -605,6 +607,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -915,6 +918,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1077,6 +1081,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3447-clear-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1223,6 +1228,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -1250,4 +1256,5 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
