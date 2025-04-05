@@ -608,6 +608,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -791,6 +792,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2107-find-unique-binary-string) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -919,6 +921,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -938,6 +941,7 @@
 | [2478-longest-nice-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -969,6 +973,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -1233,6 +1238,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String Matching
 |  |
 | ------- |
