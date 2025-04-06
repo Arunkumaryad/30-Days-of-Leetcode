@@ -328,6 +328,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -609,6 +610,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Hash Table
 |  |
 | ------- |
@@ -736,6 +738,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [0152-maximum-product-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -922,6 +925,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Bit Manipulation
 |  |
 | ------- |
