@@ -611,6 +611,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -675,6 +676,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
 |  |
 | ------- |
