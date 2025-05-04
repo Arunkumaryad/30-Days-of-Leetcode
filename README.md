@@ -613,6 +613,7 @@
 | [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -680,6 +681,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -980,6 +982,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [1160-letter-tile-possibilities](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Combinatorics
 |  |
 | ------- |
