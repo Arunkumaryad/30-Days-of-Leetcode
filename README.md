@@ -746,6 +746,7 @@
 | [0152-maximum-product-subarray](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0806-domino-and-tromino-tiling](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 ## Two Pointers
 |  |
 | ------- |
