@@ -287,6 +287,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
@@ -614,6 +616,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -704,6 +707,7 @@
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1130,6 +1134,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
