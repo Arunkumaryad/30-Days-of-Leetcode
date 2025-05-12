@@ -330,6 +330,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -685,6 +687,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -1262,6 +1265,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
