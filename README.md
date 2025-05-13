@@ -688,6 +688,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -754,6 +755,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -943,6 +945,7 @@
 | [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2998-count-symmetric-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -991,6 +994,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1083,6 +1087,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
