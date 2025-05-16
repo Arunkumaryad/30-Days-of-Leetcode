@@ -621,6 +621,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -761,6 +762,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1097,6 +1099,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Stack
 |  |
 | ------- |
