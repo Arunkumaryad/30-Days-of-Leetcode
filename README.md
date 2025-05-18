@@ -763,6 +763,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Two Pointers
 |  |
 | ------- |
