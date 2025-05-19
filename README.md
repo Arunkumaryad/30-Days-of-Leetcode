@@ -332,6 +332,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [0368-largest-divisible-subset](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -622,6 +623,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -955,6 +957,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
