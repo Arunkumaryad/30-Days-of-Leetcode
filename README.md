@@ -269,6 +269,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Graph
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -381,6 +383,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -629,6 +632,7 @@
 | [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -771,6 +775,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -983,6 +988,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Recursion
 |  |
 | ------- |
