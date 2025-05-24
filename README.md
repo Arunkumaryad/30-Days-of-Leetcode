@@ -633,6 +633,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3194-find-words-containing-character](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -1115,6 +1116,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
