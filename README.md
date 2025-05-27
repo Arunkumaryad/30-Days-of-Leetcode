@@ -976,6 +976,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
