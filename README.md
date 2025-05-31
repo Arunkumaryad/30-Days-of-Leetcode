@@ -433,6 +433,7 @@
 | [0854-making-a-large-island](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0854-making-a-large-island) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [0945-snakes-and-ladders](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
@@ -640,6 +641,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3194-find-words-containing-character](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3194-find-words-containing-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [0945-snakes-and-ladders](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0945-snakes-and-ladders) |
 ## Hash Table
 |  |
 | ------- |
@@ -736,6 +738,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [0945-snakes-and-ladders](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0945-snakes-and-ladders) |
 ## Dynamic Programming
 |  |
 | ------- |
