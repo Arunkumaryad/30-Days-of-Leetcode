@@ -294,6 +294,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [0945-snakes-and-ladders](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -644,6 +646,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [0945-snakes-and-ladders](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0135-candy](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0135-candy) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Hash Table
 |  |
 | ------- |
