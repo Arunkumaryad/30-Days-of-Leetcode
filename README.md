@@ -825,6 +825,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1139,6 +1140,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3194-find-words-containing-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -1325,6 +1327,7 @@
 | [2998-count-symmetric-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
