@@ -272,6 +272,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [0135-candy](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0135-candy) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Graph
 |  |
 | ------- |
@@ -720,6 +721,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Matrix
 |  |
 | ------- |
@@ -1143,6 +1145,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
 | ------- |
@@ -1170,6 +1173,7 @@
 | [3447-clear-digits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3447-clear-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Merge Sort
 |  |
 | ------- |
