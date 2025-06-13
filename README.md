@@ -274,6 +274,7 @@
 | [0135-candy](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0135-candy) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -651,6 +652,7 @@
 | [0135-candy](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -919,6 +921,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
 |  |
 | ------- |
