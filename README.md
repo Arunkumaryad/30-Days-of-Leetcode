@@ -275,6 +275,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Graph
 |  |
 | ------- |
@@ -1001,6 +1002,7 @@
 | [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
