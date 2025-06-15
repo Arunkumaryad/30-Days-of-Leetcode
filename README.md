@@ -276,6 +276,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Graph
 |  |
 | ------- |
@@ -1003,6 +1004,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
