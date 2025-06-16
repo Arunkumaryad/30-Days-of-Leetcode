@@ -655,6 +655,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
