@@ -1006,6 +1006,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1067,6 +1068,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Queue
 |  |
 | ------- |
