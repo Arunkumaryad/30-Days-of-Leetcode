@@ -277,6 +277,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Graph
 |  |
 | ------- |
@@ -346,6 +347,7 @@
 | [3321-type-of-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -656,6 +658,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
