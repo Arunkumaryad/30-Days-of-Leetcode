@@ -738,6 +738,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
 | ------- |
@@ -1013,6 +1014,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1067,6 +1069,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1173,6 +1176,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
