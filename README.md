@@ -968,6 +968,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Math
 |  |
 | ------- |
@@ -1177,6 +1178,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Stack
 |  |
 | ------- |
