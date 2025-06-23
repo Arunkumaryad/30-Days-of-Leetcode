@@ -1016,6 +1016,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1372,6 +1373,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## String Matching
 |  |
 | ------- |
