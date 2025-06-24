@@ -662,6 +662,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -845,6 +846,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
