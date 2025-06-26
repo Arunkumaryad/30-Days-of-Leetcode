@@ -279,6 +279,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Graph
 |  |
 | ------- |
@@ -815,6 +816,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1184,6 +1186,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
 | ------- |
@@ -1345,6 +1348,7 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
 | ------- |
