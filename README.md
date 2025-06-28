@@ -352,6 +352,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -376,6 +377,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Tree
 |  |
 | ------- |
@@ -666,6 +668,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -743,6 +746,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Matrix
 |  |
 | ------- |
