@@ -353,6 +353,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -669,6 +670,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
 | ------- |
@@ -855,6 +857,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -944,6 +947,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Linked List
 |  |
 | ------- |
