@@ -1203,6 +1203,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3617-find-the-original-typed-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
