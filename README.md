@@ -827,6 +827,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1204,6 +1205,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3617-find-the-original-typed-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1338,6 +1340,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Game Theory
 |  |
 | ------- |
