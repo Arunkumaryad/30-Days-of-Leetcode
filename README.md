@@ -674,6 +674,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -754,6 +755,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -1309,6 +1311,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
