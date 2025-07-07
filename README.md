@@ -281,6 +281,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Graph
 |  |
 | ------- |
@@ -355,6 +356,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Tree
 |  |
 | ------- |
@@ -675,6 +678,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Hash Table
 |  |
 | ------- |
