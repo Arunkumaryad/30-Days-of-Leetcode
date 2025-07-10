@@ -283,6 +283,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Graph
 |  |
 | ------- |
@@ -683,6 +684,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1428,6 +1430,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## String Matching
 |  |
 | ------- |
