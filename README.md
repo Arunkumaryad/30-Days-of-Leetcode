@@ -284,6 +284,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Graph
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -688,6 +690,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -882,6 +885,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
