@@ -691,6 +691,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -851,6 +852,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
