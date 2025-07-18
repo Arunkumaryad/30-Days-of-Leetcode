@@ -390,6 +390,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Tree
 |  |
 | ------- |
@@ -693,6 +694,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -855,6 +857,7 @@
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Two Pointers
 |  |
 | ------- |
