@@ -444,6 +444,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -695,6 +696,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Hash Table
 |  |
 | ------- |
@@ -1248,6 +1250,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3396-valid-word](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3396-valid-word) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -1424,6 +1427,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [0014-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Doubly-Linked List
 |  |
 | ------- |
