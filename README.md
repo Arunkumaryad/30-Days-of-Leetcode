@@ -697,6 +697,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -779,6 +780,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Matrix
 |  |
 | ------- |
@@ -1251,6 +1253,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3396-valid-word](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3396-valid-word) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
 |  |
 | ------- |
@@ -1428,6 +1431,7 @@
 | [0014-longest-common-prefix](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1473,6 +1477,7 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Number Theory
 |  |
 | ------- |
