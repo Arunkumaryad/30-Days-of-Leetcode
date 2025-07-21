@@ -1254,6 +1254,7 @@
 | [3396-valid-word](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3396-valid-word) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Stack
 |  |
 | ------- |
