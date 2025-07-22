@@ -1491,4 +1491,5 @@
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [0197-rising-temperature](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
