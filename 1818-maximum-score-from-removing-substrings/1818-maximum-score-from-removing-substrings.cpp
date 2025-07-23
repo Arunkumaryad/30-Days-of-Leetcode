@@ -1,26 +1,36 @@
 class Solution {
 public:
-    int solve(string& s, string r, int x) {
-        int i = 0;
-        int n = s.size();
-        int ans = 0;
-        for(int j=0;j<n;j++) {
-            s[i++] = s[j];
-            if(i > 1 && s[i-2] == r[0] && s[i-1] == r[1]) {
-                i = i-2;
-                ans += x;
+    int maximumGain(string& s, int x, int y) {
+        if (x<y){
+            reverse(s.begin(), s.end());
+            swap(x, y);
+        }
+        int a=0, b=0, points=0;
+        for(char c: s){
+            switch(c){
+                case 'a': a++; break;
+                case 'b':
+                    if (a>0){
+                        a--;
+                        points+=x;
+                    }
+                    else b++;
+                    break;
+                default:
+                    points+=min(a, b)*y;
+                    a=b=0;
             }
         }
-        s.resize(i);
-        return ans;
-    }
-    int maximumGain(string s, int x, int y) {
-        string a = "ab";
-        string b = "ba";
-        if(x < y) {
-            swap(a,b);
-            swap(x,y);
-        }
-        return solve(s,a,x) + solve(s,b,y);
+        points+=min(a, b)*y;
+        return points;
     }
 };
+
+
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
