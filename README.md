@@ -704,6 +704,7 @@
 | [1813-maximum-erasure-value](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -1402,6 +1403,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Game Theory
 |  |
 | ------- |
@@ -1418,6 +1420,7 @@
 | [0729-my-calendar-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1469,6 +1472,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String Matching
 |  |
 | ------- |
