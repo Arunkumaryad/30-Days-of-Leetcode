@@ -705,6 +705,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
