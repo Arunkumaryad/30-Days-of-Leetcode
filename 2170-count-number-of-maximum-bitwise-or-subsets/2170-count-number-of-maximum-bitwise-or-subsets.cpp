@@ -2,7 +2,7 @@ class Solution {
 public:
     int n;
     unsigned max_OR;
-    vector<vector<int>> dp; // (i, acc_or)
+    vector<vector<int>> dp;
     int f(int i, unsigned acc_or, vector<int>& nums){
         if (i<0) return (acc_or==max_OR)?1:0;
         if (dp[i][acc_or]!=-1) return dp[i][acc_or];
