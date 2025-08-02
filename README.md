@@ -286,6 +286,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 ## Graph
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -709,6 +711,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -794,6 +797,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [1813-maximum-erasure-value](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 ## Matrix
 |  |
 | ------- |
