@@ -712,6 +712,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Hash Table
 |  |
 | ------- |
@@ -1007,6 +1008,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Linked List
 |  |
 | ------- |
@@ -1363,6 +1365,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [1813-maximum-erasure-value](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Design
 |  |
 | ------- |
@@ -1418,6 +1421,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Game Theory
 |  |
 | ------- |
