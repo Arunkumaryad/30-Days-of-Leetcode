@@ -713,6 +713,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -799,6 +800,7 @@
 | [1813-maximum-erasure-value](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
+| [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -1366,6 +1368,7 @@
 | [1813-maximum-erasure-value](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
