@@ -714,6 +714,7 @@
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
+| [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1011,6 +1012,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1050,6 +1052,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -1442,6 +1445,7 @@
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1449,6 +1453,7 @@
 | [0729-my-calendar-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
