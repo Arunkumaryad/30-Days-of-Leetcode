@@ -888,6 +888,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1108,6 +1109,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1540,4 +1542,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
