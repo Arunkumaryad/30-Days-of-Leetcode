@@ -1110,6 +1110,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
+| [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1137,6 +1138,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -1147,6 +1149,7 @@
 | [2050-count-good-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
