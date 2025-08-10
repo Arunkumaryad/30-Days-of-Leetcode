@@ -366,6 +366,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
+| [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -804,6 +805,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 | [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Matrix
 |  |
 | ------- |
@@ -1111,6 +1113,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1179,6 +1182,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1511,6 +1515,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 ## String Matching
 |  |
 | ------- |
