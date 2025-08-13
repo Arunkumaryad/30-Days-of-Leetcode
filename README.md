@@ -1114,6 +1114,7 @@
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0326-power-of-three](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1153,6 +1154,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0326-power-of-three) |
 ## Counting
 |  |
 | ------- |
