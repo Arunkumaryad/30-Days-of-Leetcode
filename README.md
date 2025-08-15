@@ -1115,6 +1115,7 @@
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0326-power-of-three](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1143,6 +1144,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -1155,6 +1157,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
