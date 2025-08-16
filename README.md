@@ -287,6 +287,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
+| [1448-maximum-69-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1448-maximum-69-number) |
 ## Graph
 |  |
 | ------- |
@@ -1116,6 +1117,7 @@
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0326-power-of-three](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
