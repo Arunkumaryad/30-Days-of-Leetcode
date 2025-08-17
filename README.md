@@ -892,6 +892,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1118,6 +1119,7 @@
 | [0326-power-of-three](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1448-maximum-69-number) |
+| [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1394,6 +1396,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
 ## Design
 |  |
 | ------- |
@@ -1562,4 +1565,5 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
