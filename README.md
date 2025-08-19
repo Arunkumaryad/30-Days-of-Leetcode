@@ -720,6 +720,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [0679-24-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0679-24-game) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -1123,6 +1124,7 @@
 | [1448-maximum-69-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1448-maximum-69-number) |
 | [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
 | [0679-24-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0679-24-game) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
