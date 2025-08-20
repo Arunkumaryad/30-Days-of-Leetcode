@@ -721,6 +721,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [0679-24-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -834,6 +835,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [0945-snakes-and-ladders](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -895,6 +897,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
