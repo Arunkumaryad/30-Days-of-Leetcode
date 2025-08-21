@@ -722,6 +722,7 @@
 | [0679-24-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -836,6 +837,7 @@
 | [0945-snakes-and-ladders](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -898,6 +900,7 @@
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1346,6 +1349,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1519,6 +1523,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Enumeration
 |  |
 | ------- |
