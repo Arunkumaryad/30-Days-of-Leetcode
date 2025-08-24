@@ -725,6 +725,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -905,6 +906,7 @@
 | [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1413,6 +1415,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
 | ------- |
