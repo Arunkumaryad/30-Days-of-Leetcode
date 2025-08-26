@@ -727,6 +727,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0498-diagonal-traverse](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0498-diagonal-traverse) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
