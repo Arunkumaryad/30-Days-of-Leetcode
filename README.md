@@ -368,6 +368,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -729,6 +730,7 @@
 | [0498-diagonal-traverse](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0498-diagonal-traverse) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -848,6 +850,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
