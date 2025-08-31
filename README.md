@@ -732,6 +732,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [0036-valid-sudoku](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
@@ -821,6 +822,7 @@
 | [0940-fruit-into-baskets](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0036-valid-sudoku](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
@@ -854,6 +856,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [0036-valid-sudoku](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -982,6 +985,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [0679-24-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0679-24-game) |
+| [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
 ## Topological Sort
 |  |
 | ------- |
