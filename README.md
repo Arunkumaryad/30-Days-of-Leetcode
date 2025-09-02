@@ -370,6 +370,7 @@
 | [2689-rearranging-fruits](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2689-rearranging-fruits) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -736,6 +737,7 @@
 | [0036-valid-sudoku](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1158,6 +1160,7 @@
 | [0679-24-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1570,6 +1573,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1609,4 +1613,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
