@@ -1194,6 +1194,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0342-power-of-four) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -1579,6 +1580,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -1613,6 +1615,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
