@@ -740,6 +740,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -1165,6 +1166,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3830-find-closest-person](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3830-find-closest-person) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1195,6 +1197,7 @@
 | [0231-power-of-two](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
 | ------- |
