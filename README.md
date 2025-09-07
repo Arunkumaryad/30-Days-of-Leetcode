@@ -741,6 +741,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -1167,6 +1168,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3830-find-closest-person](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3830-find-closest-person) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
