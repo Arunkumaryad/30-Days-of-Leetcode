@@ -931,6 +931,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1104,6 +1105,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [0498-diagonal-traverse](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
 | ------- |
@@ -1258,6 +1260,7 @@
 | [0859-design-circular-deque](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## String
 |  |
 | ------- |
