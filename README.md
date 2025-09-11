@@ -373,6 +373,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [2887-sort-vowels-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1366,6 +1367,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
