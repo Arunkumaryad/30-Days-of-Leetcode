@@ -836,6 +836,7 @@
 | [0036-valid-sudoku](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
@@ -1250,6 +1251,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1370,6 +1372,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
