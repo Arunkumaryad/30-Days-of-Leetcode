@@ -745,6 +745,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 ## Hash Table
 |  |
 | ------- |
@@ -837,6 +838,7 @@
 | [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 ## Matrix
 |  |
 | ------- |
@@ -1373,6 +1375,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 ## Stack
 |  |
 | ------- |
