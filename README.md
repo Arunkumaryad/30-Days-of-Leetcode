@@ -746,6 +746,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1180,6 +1181,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1408,6 +1410,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1630,6 +1633,7 @@
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Database
 |  |
 | ------- |
