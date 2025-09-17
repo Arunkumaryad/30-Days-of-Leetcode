@@ -403,6 +403,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Tree
 |  |
 | ------- |
@@ -747,6 +748,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -841,6 +843,7 @@
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Matrix
 |  |
 | ------- |
@@ -1380,6 +1383,7 @@
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Stack
 |  |
 | ------- |
@@ -1483,6 +1487,7 @@
 | [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1556,6 +1561,7 @@
 | [2434-design-a-number-container-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Memoization
 |  |
 | ------- |
