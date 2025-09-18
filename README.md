@@ -404,6 +404,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 ## Tree
 |  |
 | ------- |
@@ -844,6 +845,7 @@
 | [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -1488,6 +1490,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1562,6 +1565,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 ## Memoization
 |  |
 | ------- |
