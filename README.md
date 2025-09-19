@@ -750,6 +750,7 @@
 | [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -846,6 +847,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -880,6 +882,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [0036-valid-sudoku](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0037-sudoku-solver) |
+| [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1386,6 +1389,7 @@
 | [1006-vowel-spellchecker](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -1491,6 +1495,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
