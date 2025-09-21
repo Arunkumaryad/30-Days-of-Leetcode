@@ -405,6 +405,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
+| [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 ## Tree
 |  |
 | ------- |
@@ -752,6 +753,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
+| [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -850,6 +852,7 @@
 | [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
+| [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 ## Matrix
 |  |
 | ------- |
@@ -1501,6 +1504,7 @@
 | [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
+| [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1577,6 +1581,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
+| [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 ## Memoization
 |  |
 | ------- |
