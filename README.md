@@ -754,6 +754,7 @@
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -853,6 +854,7 @@
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -1271,6 +1273,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Combinatorics
 |  |
 | ------- |
