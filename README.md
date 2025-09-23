@@ -991,6 +991,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [0165-compare-version-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0165-compare-version-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1400,6 +1401,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
+| [0165-compare-version-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0165-compare-version-numbers) |
 ## Stack
 |  |
 | ------- |
