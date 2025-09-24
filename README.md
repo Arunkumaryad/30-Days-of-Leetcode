@@ -855,6 +855,7 @@
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
 | [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Matrix
 |  |
 | ------- |
@@ -1199,6 +1200,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1402,6 +1404,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 | [0165-compare-version-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Stack
 |  |
 | ------- |
