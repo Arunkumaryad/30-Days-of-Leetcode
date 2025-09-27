@@ -758,6 +758,7 @@
 | [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
 ## Hash Table
 |  |
 | ------- |
@@ -1206,6 +1207,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1694,4 +1696,5 @@
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
