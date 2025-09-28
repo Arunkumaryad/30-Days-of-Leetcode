@@ -291,6 +291,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Graph
 |  |
 | ------- |
@@ -376,6 +377,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -759,6 +761,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -1208,6 +1211,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
