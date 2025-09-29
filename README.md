@@ -762,6 +762,7 @@
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Hash Table
 |  |
 | ------- |
@@ -964,6 +965,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Two Pointers
 |  |
 | ------- |
