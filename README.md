@@ -763,6 +763,7 @@
 | [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1144,6 +1145,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [0498-diagonal-traverse](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -1214,6 +1216,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1298,6 +1301,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Queue
 |  |
 | ------- |
