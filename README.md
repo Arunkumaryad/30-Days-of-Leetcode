@@ -292,6 +292,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Graph
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3678-design-task-manager) |
 | [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
+| [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Tree
 |  |
 | ------- |
@@ -764,6 +766,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -865,6 +868,7 @@
 | [2023-design-movie-rental-system](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Matrix
 |  |
 | ------- |
@@ -1103,6 +1107,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3827-implement-router) |
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Linked List
 |  |
 | ------- |
