@@ -769,6 +769,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -1155,6 +1156,7 @@
 | [0498-diagonal-traverse](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -1583,6 +1585,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
 | ------- |
