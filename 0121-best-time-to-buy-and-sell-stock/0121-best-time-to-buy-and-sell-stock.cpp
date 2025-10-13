@@ -6,7 +6,7 @@ public:
         int maxi = 0;
         for(int i=0;i<n;i++) {
             minPrice = min(minPrice,prices[i]);
-            int diff = prices[i]-minPrice;
+            int diff = prices[i] - minPrice;
             maxi = max(maxi,diff);
         }
         return maxi;
