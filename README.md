@@ -380,6 +380,7 @@
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -770,6 +771,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -872,6 +874,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -1433,6 +1436,7 @@
 | [3797-design-spreadsheet](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3797-design-spreadsheet) |
 | [0165-compare-version-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Stack
 |  |
 | ------- |
