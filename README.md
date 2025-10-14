@@ -772,6 +772,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
