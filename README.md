@@ -773,6 +773,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1117,6 +1118,7 @@
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Linked List
 |  |
 | ------- |
