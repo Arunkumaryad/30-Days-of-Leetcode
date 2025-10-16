@@ -293,6 +293,7 @@
 | [0611-valid-triangle-number](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Graph
 |  |
 | ------- |
@@ -774,6 +775,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -877,6 +879,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -1234,6 +1237,7 @@
 | [0830-largest-triangle-area](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
