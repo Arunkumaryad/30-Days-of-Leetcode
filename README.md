@@ -776,6 +776,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -1166,6 +1167,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -1444,6 +1446,7 @@
 | [0165-compare-version-numbers](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunkumaryad/30-Days-of-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
